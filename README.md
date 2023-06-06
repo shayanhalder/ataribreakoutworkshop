@@ -1,4 +1,4 @@
-## Overview 
+# Overview 
 
 In this workshop, we'll be making the classic Atari Breakout game! This workshop is aimed towards anyone who wants an introduction to basic game development in JavaScript. Game development is one of the best ways to learn coding-- it strengthens your problem solving skills in a rewarding and exciting way!
 
